@@ -22,7 +22,7 @@ You need to create this files in your machine and save them in your computer. Th
 Copy and paste your repostitory name into your Browser to access your Web Page.
 Your repository name should be username.github.io, replacing username with your GitHub username.
 As an example, I will access my own web page: https://yaniscorrea.github.io/
-![Screenshot](6Pic.jpg)
+![Screenshot](yanisPic.jpg)
 
 
 
