@@ -1,32 +1,25 @@
 h1 {
   color: #6c2eb9;
   font-weight: normal;
-  font-size: 40px;
-  font-family: Arial;
-  text-transform: uppercase;
+  font-size: 35px;
+  font-family: Verdana;
 }
 
-info {
-  padding-left: 2rem;
-  background-image: url(star.svg);
-  background-position: 0 0;
-  background-size: 1.6rem 1.6rem;
-  background-repeat: no-repeat;
-}
 
 ul {
   list-style-type: none;
 }
 
-pf {
+li {
   float: left;
   background-color: #A3E4D7;
   margin-right: 10px;
+   font-size: 17px;
   border: #D7C8B6 2px solid;
 }
 
 a {
-  color: black;
+  color: #138D75;
   padding: 0 4px;
   text-decoration: none;
 }
