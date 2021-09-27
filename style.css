@@ -1,9 +1,17 @@
 h1 {
   color: #28B463;
   font-weight: normal;
-  font-size: 35px;
+  font-size: 40px;
   font-family: Optima;
 }
+
+p {
+  text-align: center;
+  font-style:italic; 
+  line-height: 30pt;
+            font-size: 30px;
+            color: #222;
+        }
 
 
 ul {
@@ -26,5 +34,5 @@ a {
 
 a:hover {
   background-color: white;
-  color: #D1F2EB;
+  color: #298A08;
 }
