@@ -1,3 +1,19 @@
+h1 {
+  color: #6c2eb9;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Verdana;
+  text-transform: uppercase;
+}
+
+info infoo {
+  padding-left: 2rem;
+  background-image: url(star.svg);
+  background-position: 0 0;
+  background-size: 1.6rem 1.6rem;
+  background-repeat: no-repeat;
+}
+
 ul {
   list-style-type: none;
 }
