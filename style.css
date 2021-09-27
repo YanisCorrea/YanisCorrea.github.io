@@ -20,7 +20,7 @@ ul {
 
 pf {
   float: left;
-  background-color: #F6E3CA;
+  background-color: #A3E4D7;
   margin-right: 10px;
   border: #D7C8B6 2px solid;
 }
@@ -33,5 +33,5 @@ a {
 
 a:hover {
   background-color: white;
-  color: #D7C8B6;
+  color: #D1F2EB;
 }
