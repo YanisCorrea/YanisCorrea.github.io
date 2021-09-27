@@ -2,11 +2,11 @@ h1 {
   color: #6c2eb9;
   font-weight: normal;
   font-size: 40px;
-  font-family: Verdana;
+  font-family: Arial;
   text-transform: uppercase;
 }
 
-info infoo {
+info {
   padding-left: 2rem;
   background-image: url(star.svg);
   background-position: 0 0;
@@ -18,7 +18,7 @@ ul {
   list-style-type: none;
 }
 
-li {
+pf {
   float: left;
   background-color: #F6E3CA;
   margin-right: 10px;
