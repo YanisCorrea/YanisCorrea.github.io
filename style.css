@@ -1,8 +1,8 @@
 h1 {
-  color: #6c2eb9;
+  color: #28B463;
   font-weight: normal;
   font-size: 35px;
-  font-family: Verdana;
+  font-family: Optima;
 }
 
 
@@ -15,11 +15,11 @@ li {
   background-color: #A3E4D7;
   margin-right: 10px;
    font-size: 17px;
-  border: #D7C8B6 2px solid;
+  border: #138D75 2px solid;
 }
 
 a {
-  color: #138D75;
+  color: black;
   padding: 0 4px;
   text-decoration: none;
 }
